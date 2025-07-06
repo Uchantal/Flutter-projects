@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825150779373",
+    "project_id": "shiinex-app",
+    "storage_bucket": "shiinex-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825150779373:android:e516d6aaf59ae3023081e4",
+        "android_client_info": {
+          "package_name": "com.example.shinex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAY5RhwAcbiRx33UqiyGmO2d152PrluUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
