@@ -93,7 +93,7 @@ class _NotesScreenState extends State<NotesScreen> {
           IconButton(
             icon: const Icon(Icons.logout),
             onPressed: () {
-              context.read<AuthBloc>().add(AuthSignOutRequested());
+              context.read<AuthBloc>().add(AuthLoggedOut());
             },
           ),
         ],
